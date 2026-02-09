@@ -40,7 +40,7 @@ The pipeline consists of:
 ```
 .
 ├─ notebooks/
-│  └─ pa2.ipynb
+│  └─ ocr-crnn-ctc.ipynb
 ├─ results/              # figures, error examples, metrics (optional)
 ├─ data/                 # dataset directory (not included)
 ├─ environment.yml
